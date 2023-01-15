@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(210, 232, 240);
+    color:rgb(152, 31, 31);
+}
+h1{
+    color:green;
+}
+h2{
+    color:green;
+}
+h4{
+    color:rgb(227, 18, 164);
+}
+hr{
+    background-color:blue;
+    border-style:none;
+    height:1px;
+}
